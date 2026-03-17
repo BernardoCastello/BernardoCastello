@@ -1,19 +1,4 @@
 ### Hello, welcome to my page. I'm Bernardo Castello, nice to meet you! 👋
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="imgPy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg">
-  <img align="center" alt="imgNB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="imgNp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg">
-  <img align="center" alt="imgPd" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="imgMpl" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
-  <img align="center" alt="imgSkt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
-  <img align="center" alt="imgTf" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="imgPt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg">
-  <img align="center" alt="imgMsql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="imgPossql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="imgFl" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg">
-
-</div>
   
   ##
  
